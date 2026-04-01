@@ -1,0 +1,33 @@
+# VM Plans
+
+## 1. Debian Basic
+- OS: Debian 12
+- CPU: 1 vCPU
+- RAM: 2 GB
+- Storage: 25 GB SSD
+- Bandwidth: 1 TB
+- Price: $5/month
+
+## 2. Debian Standard
+- OS: Debian 12
+- CPU: 2 vCPU
+- RAM: 4 GB
+- Storage: 50 GB SSD
+- Bandwidth: 2 TB
+- Price: $10/month
+
+## 3. Windows 10/11 Standard
+- OS: Windows 10 or Windows 11
+- CPU: 2 vCPU
+- RAM: 8 GB
+- Storage: 60 GB SSD
+- Bandwidth: 2 TB
+- Price: $20/month
+
+## 4. Windows 10/11 Pro
+- OS: Windows 10 Pro or Windows 11 Pro
+- CPU: 4 vCPU
+- RAM: 16 GB
+- Storage: 100 GB SSD
+- Bandwidth: 3 TB
+- Price: $35/month
